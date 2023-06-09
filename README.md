@@ -9,7 +9,7 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Muhammad Zeeshan Yousaf, Software Engineer - Full Stack Web Developer from Lahore, Pakistan
+  Hi, I'm Software Engineer - Full Stack Web Developer from Lahore, Pakistan
   <br>
   <br>
   💻 I’m currently focusing on Ruby on Rails and React JS
