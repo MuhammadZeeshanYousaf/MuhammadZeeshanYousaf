@@ -46,6 +46,7 @@
 <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
 <code><img title="jquery" height="25" src="images/jquery-original.svg"></code>
 <code><img title="React" height="25" src="images/react-original.svg"></code>
+<code><img title="Next.js" height="25" src="images/Next.js.svg"></code>
 <code><img title="JSON" height="25" src="images/json.svg"></code>
 <code><img title="Git" height="25" src="images/git-original.svg"></code>
 <code><img title="GitHub" height="25" src="images/github.svg"></code>
