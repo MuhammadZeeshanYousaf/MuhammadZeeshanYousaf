@@ -2,17 +2,15 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+MuuhammadZeeshanYousaf;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Zeeshan+Yousaf;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=25">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Zeeshan+Yousaf;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=25">
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Software Engineer - Full Stack Web Developer from Lahore, Pakistan
+  Hi, I'm Software Engineer - Full Stack Web Developer based in Pakistan
   <br>
   <br>
-  💻 I’m currently focusing on Ruby on Rails and React JS
+  💻 I’m currently focusing on Ruby on Rails, Node.js and React JS
   <br>
   📫 How to reach me 👇
 </p>
@@ -24,46 +22,45 @@
 <a href="https://www.youtube.com/@techforzee" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> 
 <!--<a href="https://t.me/ZeeshanYousaf" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>  -->
 <a href="https://twitter.com/zeeThedeveloper" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" height=23></a>
-<a href="https://instagram.com/zeeshan_yusaf" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge" height=23></a>
+<!-- <a href="https://instagram.com/zeeshan_yusaf" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge" height=23></a> -->
 </p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
 
-<code><img title="Ruby" height="25" src="images/ruby.svg"></code>
-<code><img title="Rails" height="25" src="images/rails.svg"></code>
-<code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-<code><img title="mySQL" height="25" src="images/mysql.svg"></code>
-<code><img title="Oracle" height="25" src="images/oracle.svg"></code>
-<code><img title="Heroku" height="25" src="images/heroku.svg"></code>
-<code><img title="Jenkins" height="25" src="images/jenkins.svg"></code>
-<code><img title="Jira" height="25" src="images/jira.svg"></code>
-<code><img title="Python" height="25" src="images/python-original.svg"></code>
-<code><img title="HTML5" height="25" src="images/html5.svg"></code>
-<code><img title="CSS" height="25" src="images/css.svg"></code>
-<code><img title="SASS" height="25" src="images/sass.svg"></code>
-<code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-<code><img title="jquery" height="25" src="images/jquery-original.svg"></code>
-<code><img title="React" height="25" src="images/react-original.svg"></code>
-<code><img title="Next.js" height="25" src="images/Next.js.png"></code>
-<code><img title="JSON" height="25" src="images/json.svg"></code>
-<code><img title="Git" height="25" src="images/git-original.svg"></code>
-<code><img title="GitHub" height="25" src="images/github.svg"></code>
-<code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-<code><img title="C" height="25" src="images/c.svg"></code>
-<code><img title="C++" height="25" src="images/cpp.svg"></code>
-<code><img title="C#" height="25" src="images/cSharp.svg"></code>
-<code><img title=".Net Core" height="25" src="images/dotnetcore.svg"></code>
-<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-<code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> 
+<code><img title="Ruby" height="30" src="images/ruby.svg"></code>
+<code><img title="Rails" height="30" src="images/rails.svg"></code>
+<code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
+<code><img title="mySQL" height="30" src="images/mysql.svg"></code>
+<code><img title="Oracle" height="30" src="images/oracle.svg"></code>
+<code><img title="Heroku" height="30" src="images/heroku.svg"></code>
+<code><img title="Jenkins" height="30" src="images/jenkins.svg"></code>
+<code><img title="Jira" height="30" src="images/jira.svg"></code>
+<code><img title="Python" height="30" src="images/python-original.svg"></code>
+<code><img title="HTML5" height="30" src="images/html5.svg"></code>
+<code><img title="CSS" height="30" src="images/css.svg"></code>
+<code><img title="SASS" height="30" src="images/sass.svg"></code>
+<code><img title="Javascript" height="30" src="images/javascript.svg"></code>
+<code><img title="jquery" height="30" src="images/jquery-original.svg"></code>
+<code><img title="React" height="30" src="images/react-original.svg"></code>
+<code><img title="Next.js" height="30" src="images/Next.js.png"></code>
+<code><img title="Node.js" height="30" src="images/nodejs-icon.svg"/></code>
+<code><img title="JSON" height="30" src="images/json.svg"></code>
+<code><img title="Git" height="30" src="images/git-original.svg"></code>
+<code><img title="GitHub" height="30" src="images/github.svg"></code>
+<code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
+<code><img title="C" height="30" src="images/c.svg"></code>
+<code><img title="C++" height="30" src="images/cpp.svg"></code>
+<code><img title="C#" height="30" src="images/cSharp.svg"></code>
+<code><img title=".Net Core" height="30" src="images/dotnetcore.svg"></code>
+<code><img title="Visual Studio Code" height="30" src="images/vscode.png"></code>
+<code><img title="Microsoft Visual Studio" height="30" src="images/visualstudio.png"></code>
 
 </p>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
-
 
 <p align="center">
 <a href="https://github.com/MuhammadZeeshanYousaf/">
@@ -90,7 +87,7 @@
 
 <!--
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=MuuhammadZeeshanYousaf/MuuhammadZeeshanYousaf" alt="MuuhammadZeeshanYousaf"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MuuhammadZeeshanYousaf/MuuhammadZeeshanYousaf" alt="MuuhammadZeeshanYousaf"/>
 </p>
 -->
 <!-- Followers -->
