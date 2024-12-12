@@ -10,7 +10,7 @@
   Hi, I'm Software Engineer - Full Stack Web Developer based in Pakistan
   <br>
   <br>
-  💻 I’m currently focusing on Ruby on Rails, Node.js and React JS
+  💻 I’m currently focusing on Node.js, React JS, Python and Ruby on Rails.
   <br>
   📫 How to reach me 👇
 </p>
@@ -19,15 +19,20 @@
 <a href="mailto:zeeshanyousaf430@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
 <a href="https://www.facebook.com/muhammadzeeshanyousaf786" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a> 
 <!-- <a href="https://github.com/MuhammadZeeshanYousaf" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
-<a href="https://www.youtube.com/@techforzee" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> 
+<!-- <a href="https://www.youtube.com/@techforzee" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a>  -->
 <!--<a href="https://t.me/ZeeshanYousaf" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>  -->
 <a href="https://twitter.com/zeeThedeveloper" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" height=23></a>
 <!-- <a href="https://instagram.com/zeeshan_yusaf" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge" height=23></a> -->
 </p>
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2><br>
 <p align="center">
 
+<code><img title="Javascript" height="30" src="images/javascript.svg"></code>
+<code><img title="Node.js" height="30" src="images/nodejs-icon.svg"/></code>
+<code><img title="React" height="30" src="images/react-original.svg"></code>
+<code><img title="Next.js" height="30" src="images/Next.js.png"></code>
+<code><img title="Python" height="30" src="images/python-original.svg"></code>
 <code><img title="Ruby" height="30" src="images/ruby.svg"></code>
 <code><img title="Rails" height="30" src="images/rails.svg"></code>
 <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
@@ -36,15 +41,10 @@
 <code><img title="Heroku" height="30" src="images/heroku.svg"></code>
 <code><img title="Jenkins" height="30" src="images/jenkins.svg"></code>
 <code><img title="Jira" height="30" src="images/jira.svg"></code>
-<code><img title="Python" height="30" src="images/python-original.svg"></code>
 <code><img title="HTML5" height="30" src="images/html5.svg"></code>
 <code><img title="CSS" height="30" src="images/css.svg"></code>
 <code><img title="SASS" height="30" src="images/sass.svg"></code>
-<code><img title="Javascript" height="30" src="images/javascript.svg"></code>
 <code><img title="jquery" height="30" src="images/jquery-original.svg"></code>
-<code><img title="React" height="30" src="images/react-original.svg"></code>
-<code><img title="Next.js" height="30" src="images/Next.js.png"></code>
-<code><img title="Node.js" height="30" src="images/nodejs-icon.svg"/></code>
 <code><img title="JSON" height="30" src="images/json.svg"></code>
 <code><img title="Git" height="30" src="images/git-original.svg"></code>
 <code><img title="GitHub" height="30" src="images/github.svg"></code>
@@ -57,6 +57,7 @@
 <code><img title="Microsoft Visual Studio" height="30" src="images/visualstudio.png"></code>
 
 </p>
+<!-- 
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -66,7 +67,8 @@
 <a href="https://github.com/MuhammadZeeshanYousaf/">
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZeeshanYousaf&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
-</p>
+</p> 
+-->
 <!-- 
 <hr>
 <h2 align="center">📁 Most Popular Repos 📁</h2>
