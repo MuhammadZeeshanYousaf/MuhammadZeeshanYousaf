@@ -729,6 +729,7 @@ a:hover {
 
   .typed-text {
     font-size: 1.8rem;
+    height: 20px;
   }
 
   .about-content,
