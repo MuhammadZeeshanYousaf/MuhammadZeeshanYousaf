@@ -292,11 +292,18 @@ a:hover {
   transition: var(--transition);
 }
 
+.social-icons.footer-icons a:hover {
+  background-color: var(--light-color);
+  transform: translateY(-3px);
+}
+
 .social-icons a:hover {
   color: var(--light-color);
   background-color: var(--primary-color);
   transform: translateY(-3px);
 }
+
+
 
 .profile-img {
   width: 90%;

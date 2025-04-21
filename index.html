@@ -9,6 +9,10 @@
       content="Zeeshan Yousaf - Full Stack Web Developer specializing in Node.js, React JS, Python and Ruby on Rails"
     />
     <link rel="stylesheet" href="css/style.css" />
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="images/favicon/site.webmanifest" />
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
     <!-- AOS Animation Library -->
@@ -288,16 +292,20 @@
           <button class="filter-btn active" data-filter="all">All</button>
           <button class="filter-btn" data-filter="web">Web</button>
           <button class="filter-btn" data-filter="ai">AI</button>
-          <button class="filter-btn" data-filter="mobile">Mobile</button>
+          <button class="filter-btn" data-filter="integration">Integration</button>
         </div>
         <div class="projects-grid">
           <div class="project-card" data-category="ai" data-aos="fade-up" data-aos-delay="100">
             <div class="project-img">
-              <img src="images/bot.png" alt="WorkHub WorkBOT" />
+              <img src="images/projects/workbot.png" alt="WorkHub WorkBOT" />
             </div>
             <div class="project-info">
               <h3>WorkHub WorkBOT</h3>
-              <p>AI platform that centralizes knowledge management and enables automations</p>
+              <p>
+                WorkBot is an AI-driven customer support platform that utilizes AI Agents to deliver autonomous 24/7
+                assistance through text, voice, and email—ensuring exceptional customer experiences while reducing
+                operational costs.
+              </p>
               <div class="project-tech">
                 <span>TypeScript</span>
                 <span>Node.js</span>
@@ -311,10 +319,7 @@
           </div>
           <div class="project-card" data-category="web" data-aos="fade-up" data-aos-delay="200">
             <div class="project-img">
-              <img
-                src="https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
-                alt="eKomi Lite"
-              />
+              <img src="images/projects/ekomi.jpeg" alt="eKomi Lite" />
             </div>
             <div class="project-info">
               <h3>eKomi Lite</h3>
@@ -329,12 +334,30 @@
               </div>
             </div>
           </div>
+          <!-- green cuts -->
           <div class="project-card" data-category="web" data-aos="fade-up" data-aos-delay="300">
             <div class="project-img">
-              <img
-                src="https://images.unsplash.com/photo-1626544827763-d516dce335e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
-                alt="Vidmonials"
-              />
+              <img src="images/projects/green-cuts.jpeg" alt="GreenCuts" />
+            </div>
+            <div class="project-info">
+              <h3>Green Cuts</h3>
+              <p>
+                A comprehensive Customer Management System for Green Cuts, streamlining lawn care service scheduling,
+                client communications, and payment processing for UK-based landscaping operations.
+              </p>
+              <div class="project-tech">
+                <span>Ruby on Rails</span>
+                <span>React</span>
+              </div>
+              <div class="project-links">
+                <a href="#" target="_blank" class="btn btn-sm">View Demo</a>
+                <a href="#" target="_blank" class="btn btn-sm">GitHub</a>
+              </div>
+            </div>
+          </div>
+          <div class="project-card" data-category="web" data-aos="fade-up" data-aos-delay="400">
+            <div class="project-img">
+              <img src="images/projects/vidmonials.png" alt="Vidmonials" />
             </div>
             <div class="project-info">
               <h3>Vidmonials</h3>
@@ -349,19 +372,20 @@
               </div>
             </div>
           </div>
-          <div class="project-card" data-category="web" data-aos="fade-up" data-aos-delay="400">
+          <div class="project-card" data-category="integration" data-aos="fade-up" data-aos-delay="500">
             <div class="project-img">
-              <img
-                src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
-                alt="Shop Trackee"
-              />
+              <img src="images/projects/workbot-slack.png" alt="WorkBot Slack" />
             </div>
             <div class="project-info">
-              <h3>Shop Trackee</h3>
-              <p>Product & Services ordering system around specific radius for local businesses.</p>
+              <h3>WorkBOT - Slack</h3>
+              <p>
+                Seamless integration of WorkHub WorkBOT into Slack, enhancing collaboration, user engagement, and data
+                security.
+              </p>
               <div class="project-tech">
-                <span>Ruby on Rails</span>
-                <span>Next.js</span>
+                <span>TypeScript</span>
+                <span>Node.js</span>
+                <span>Bolt</span>
               </div>
               <div class="project-links">
                 <a href="#" target="_blank" class="btn btn-sm">View Demo</a>
@@ -369,19 +393,66 @@
               </div>
             </div>
           </div>
-          <div class="project-card" data-category="web" data-aos="fade-up" data-aos-delay="500">
+
+          <div class="project-card" data-category="ai" data-aos="fade-up" data-aos-delay="600">
             <div class="project-img">
-              <img
-                src="https://images.unsplash.com/photo-1589391886645-d51941baf7fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
-                alt="Green Cuts CRM"
-              />
+              <img src="images/projects/wazii.png" alt="WaZii" />
             </div>
             <div class="project-info">
-              <h3>Green Cuts CRM</h3>
-              <p>A CRM tailored for a grass cutting business in UK to manage clients and services.</p>
+              <h3>WaZii</h3>
+              <p>
+                An intelligent stock trading web app that automates stock trading by analyzing market sentiment and
+                fundamental data. It uses machine learning to process financial news, social media trends, and technical
+                indicators to make data-driven trading decisions in real-time.
+              </p>
               <div class="project-tech">
-                <span>Ruby on Rails</span>
+                <span>TypeScript</span>
+                <span>Next.js</span>
+                <span>Python</span>
+              </div>
+              <div class="project-links">
+                <a href="#" target="_blank" class="btn btn-sm">View Demo</a>
+                <a href="#" target="_blank" class="btn btn-sm">GitHub</a>
+              </div>
+            </div>
+          </div>
+          <div class="project-card" data-category="web" data-aos="fade-up" data-aos-delay="700">
+            <div class="project-img">
+              <img src="images/projects/mediplus.png" alt="247MediPlus" />
+            </div>
+            <div class="project-info">
+              <h3>247MediPlus</h3>
+              <p>
+                A comprehensive healthcare platform connecting patients with medical professionals, laboratories, and
+                healthcare services. Features include doctor discovery, online appointments, OTC medication ordering,
+                and access to medical testing kits and lab services for convenient healthcare management.
+              </p>
+              <div class="project-tech">
+                <span>JavaScript</span>
                 <span>React</span>
+              </div>
+              <div class="project-links">
+                <a href="#" target="_blank" class="btn btn-sm">View Demo</a>
+                <a href="#" target="_blank" class="btn btn-sm">GitHub</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="project-card" data-category="integration" data-aos="fade-up" data-aos-delay="800">
+            <div class="project-img">
+              <img src="images/projects/vidmonials-slack.png" alt="Vidmonials Slack" />
+            </div>
+            <div class="project-info">
+              <h3>Vidmonials - Slack</h3>
+              <p>
+                Vidmonials real-time alerts messages within Slack. After installation of the app inside Slack workspace,
+                it gets connected with Slack channels where Vidmonials sends real-time response messages, received from
+                their customers in the form of video, audio, or text within Slack without having to open the Vidmonials
+                native app.
+              </p>
+              <div class="project-tech">
+                <span>Javascript</span>
+                <span>Ruby on Rails</span>
               </div>
               <div class="project-links">
                 <a href="#" target="_blank" class="btn btn-sm">View Demo</a>
@@ -420,7 +491,7 @@
               <i class="fas fa-share-alt"></i>
               <div>
                 <h3>Social Profiles</h3>
-                <div class="social-icons">
+                <div class="social-icons footer-icons">
                   <a href="https://linkedin.com/in/muhammad-zeeshan-yousaf" target="_blank" aria-label="LinkedIn"
                     ><i class="fab fa-linkedin"></i
                   ></a>
