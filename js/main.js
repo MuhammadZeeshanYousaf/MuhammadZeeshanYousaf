@@ -95,10 +95,9 @@ if (projectsFilters) {
 if (typedTextElement) {
   const texts = [
     "Full Stack Web Developer",
-    "Ruby on Rails Expert",
-    "Node.js Developer",
-    "React.js Developer",
     "Python Programmer",
+    "Node.js Developer",
+    "React.js Developer"
   ];
   let textIndex = 0;
   let charIndex = 0;
