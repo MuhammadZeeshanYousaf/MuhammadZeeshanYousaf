@@ -550,16 +550,24 @@
             </div>
           </div>
           <div class="contact-form" data-aos="fade-left" data-aos-duration="1000">
-            <form id="contactForm">
+            <form action="https://api.web3forms.com/submit" method="POST" id="contactForm">
+              <!-- Web3Forms Configuration -->
+              <input type="hidden" name="access_key" value="fb766fd0-9962-4bde-aa0e-c94f88e8b3ae">
+              <input type="hidden" name="subject" value="New Contact Form Submission from Portfolio">
+              <input type="hidden" name="from_name" value="Default">
+              <input type="hidden" name="redirect" value="https://web3forms.com/success">
+              <input type="checkbox" name="botcheck" id="" style="display: none;">
+              
+              <!-- Form Fields -->
               <div class="form-group">
                 <input type="text" id="name" name="name" placeholder="Your Name" required />
               </div>
               <div class="form-group">
                 <input type="email" id="email" name="email" placeholder="Your Email" required />
               </div>
-              <div class="form-group">
+              <!-- <div class="form-group">
                 <input type="text" id="subject" name="subject" placeholder="Subject" required />
-              </div>
+              </div> -->
               <div class="form-group">
                 <textarea id="message" name="message" placeholder="Your Message" required></textarea>
               </div>
