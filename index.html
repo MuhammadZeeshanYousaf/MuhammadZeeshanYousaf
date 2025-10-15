@@ -554,8 +554,7 @@
               <!-- Web3Forms Configuration -->
               <input type="hidden" name="access_key" value="fb766fd0-9962-4bde-aa0e-c94f88e8b3ae">
               <input type="hidden" name="subject" value="New Contact Form Submission from Portfolio">
-              <input type="hidden" name="from_name" value="Default">
-              <input type="hidden" name="redirect" value="https://web3forms.com/success">
+              <input type="hidden" name="from_name" value="Zeeshan Portfolio Form">
               <input type="checkbox" name="botcheck" id="" style="display: none;">
               
               <!-- Form Fields -->
@@ -571,7 +570,15 @@
               <div class="form-group">
                 <textarea id="message" name="message" placeholder="Your Message" required></textarea>
               </div>
-              <button type="submit" class="btn btn-primary">Send Message</button>
+              <button type="submit" class="btn btn-primary" id="submitBtn">
+                <span class="btn-text">Send Message</span>
+                <span class="btn-loading" style="display: none;">
+                  <i class="fas fa-spinner fa-spin"></i> Sending...
+                </span>
+              </button>
+              
+              <!-- Success/Error Messages -->
+              <div id="form-message" class="form-message" style="display: none;"></div>
             </form>
           </div>
         </div>

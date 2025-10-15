@@ -133,9 +133,59 @@ if (typedTextElement) {
   setTimeout(typeText, 1000);
 }
 
-// Contact form submission - Web3Forms handles submission
-// Form validation and submission is now handled by Web3Forms
-// The form will submit directly to Web3Forms API
+// Contact form async submission with Web3Forms
+if (contactForm) {
+  contactForm.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    
+    const submitBtn = document.getElementById("submitBtn");
+    const formMessage = document.getElementById("form-message");
+    
+    // Show loading state
+    submitBtn.classList.add("loading");
+    formMessage.style.display = "none";
+    
+    try {
+      // Get form data
+      const formData = new FormData(contactForm);
+      
+      // Submit to Web3Forms
+      const response = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        body: formData
+      });
+      
+      const result = await response.json();
+      
+      if (result.success) {
+        // Show success message
+        formMessage.className = "form-message success";
+        formMessage.textContent = "Thank you for your message! I'll get back to you soon.";
+        formMessage.style.display = "block";
+        
+        // Reset form
+        contactForm.reset();
+      } else {
+        throw new Error(result.message || "Something went wrong");
+      }
+      
+    } catch (error) {
+      // Show error message
+      formMessage.className = "form-message error";
+      formMessage.textContent = "Sorry, there was an error sending your message. Please try again.";
+      formMessage.style.display = "block";
+      console.error("Form submission error:", error);
+    } finally {
+      // Hide loading state
+      submitBtn.classList.remove("loading");
+      
+      // Auto-hide message after 5 seconds
+      setTimeout(() => {
+        formMessage.style.display = "none";
+      }, 5000);
+    }
+  });
+}
 
 // Smooth scrolling for navigation links
 document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
